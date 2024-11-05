@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ipayiabi.github.io/Lsh/sitemap_index.txt
+Sitemap: https://ipayiabi.github.io/WYU/sitemap_index.txt
+Sitemap: https://ipayiabi.github.io/sep/sitemap_index.txt
+Sitemap: https://ipayiabi.github.io/tvy/sitemap_index.txt
